@@ -1,0 +1,5 @@
+greeting,hello hi hey
+goodbye,bye goodbye see you
+thanks,thank you thanks
+how are you,how are you?
+do you know hindi, do u kno hndi duhn
